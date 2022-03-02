@@ -1,0 +1,2 @@
+# Here you can add a domain names that are to be bombarded
+some.fake.domain
